@@ -12,8 +12,8 @@ You can find the original problem here:
 To run my solution, please do the following:
 
 ```
-clone this repo
-cd santas-node-helpers
+clone this repo then,
+cd santa-node-helper
 node script.js
 ```
 
